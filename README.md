@@ -1,4 +1,4 @@
-#### ChatConnect
+#### Client- Server Chat System
 
 
 ### Introduction
