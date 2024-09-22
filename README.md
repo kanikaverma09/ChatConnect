@@ -4,6 +4,7 @@
 ### Introduction
 
 This project implements a basic client-server chat system using socket programming. The goal is to establish a real-time communication channel between a client and a server, enabling them to send and receive messages in separate windows. This application demonstrates the core principles of socket programming and provides a simple yet functional messaging interface that can be extended for more complex use cases.
+![chat](https://github.com/user-attachments/assets/3e08b11d-da7e-44fc-b51d-d4a298f2e21d)
 
 ### Business Problem
 
